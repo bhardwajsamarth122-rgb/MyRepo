@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0097-interleaving-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [0343-integer-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0343-integer-break/) | Medium |
 | [0403-frog-jump](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
