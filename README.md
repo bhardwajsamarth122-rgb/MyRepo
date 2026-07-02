@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
