@@ -2,7 +2,6 @@ class Solution {
     int n;
     int mod = (int) 1e9 + 7;
     Integer[][] dp;
-    
     public int solve(int i, int step){
         if(step == 0 && i == 0){
             return 1;
@@ -16,19 +15,16 @@ class Solution {
 
         if(dp[i][step] != null) return dp[i][step];
 
-        // 1. Changed types to long to prevent overflow during addition
         long right = solve(i+1, step - 1) % mod;
-        long left = solve(i-1, step - 1) % mod;
+        long left = solve(i-1, step -1) % mod;
         long stay = solve(i, step - 1) % mod;
 
-        // 2. Cast back to int after safely applying modulo to the total sum
         return dp[i][step] = (int) ((right + left + stay) % mod);
     }
 
     public int numWays(int steps, int arrLen) {
         n = Math.min(arrLen, steps / 2 + 1);
-        // Cleaned up size to exactly 'n' since valid indices are 0 to n-1
-        dp = new Integer[n][steps + 1]; 
+        dp = new Integer[n+1][steps + 1];
         return solve(0, steps) % mod;
     }
 }
