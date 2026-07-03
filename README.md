@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0894-all-possible-full-binary-trees](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
@@ -136,4 +139,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 <!---LeetCode Topics End-->
