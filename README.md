@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
