@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,10 +143,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
