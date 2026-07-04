@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
+| [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
