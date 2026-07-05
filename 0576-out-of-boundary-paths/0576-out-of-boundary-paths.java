@@ -1,31 +1,37 @@
 class Solution {
-    int m;
-    int n;
-    int mod = (int) 1e9 + 7;
-    int[][] dir = new int[][]{{1,0}, {-1,0}, {0,-1}, {0,1}};
-    Integer[][][] dp;
-    public int solve(int x, int y, int maxMove){
-        if(x < 0 || y < 0 || x >= m || y >= n){
-            return 1;
-        }
-        if(maxMove <= 0){
-            return 0;
-        }
-        if(dp[x][y][maxMove] != null) return dp[x][y][maxMove];
-        long ans = 0;
-        for(int[] d : dir){
-            int i = d[0] + x;
-            int j = d[1] + y;
-            ans = (ans + solve(i, j, maxMove - 1)) % mod;
+    public int findPaths(int m, int n, int maxMove, int startRow, int startColumn) {
+        long[][][] dp = new long[m + 2][n + 2][maxMove + 1];
+        int mod = (int) 1e9 + 7;
+        int[][] dir = new int[][]{{1,0}, {-1,0}, {0,-1}, {0,1}};
+        for (int k = 0; k <= maxMove; k++) {
+
+            for (int i = 0; i < m + 2; i++) {
+                dp[i][0][k] = 1;
+                dp[i][n + 1][k] = 1;
+            }
+
+            for (int j = 0; j < n + 2; j++) {
+                dp[0][j][k] = 1;
+                dp[m + 1][j][k] = 1;
+            }
         }
 
-        return dp[x][y][maxMove] = (int) ans % mod;
+        for (int k = 1; k <= maxMove; k++) {
+    for (int i = 1; i <= m; i++) {
+        for (int j = 1; j <= n; j++) {
+            for (int[] d : dir) {
+                dp[i][j][k] =
+                    (dp[i][j][k]
+                    + dp[i + d[0]][j + d[1]][k - 1]) % mod;
+            }
+        }
     }
+}
 
-    public int findPaths(int M, int N, int maxMove, int startRow, int startColumn) {
-        m = M;
-        n = N;
-        dp = new Integer[m+1][n+1][maxMove+1];
-        return solve(startRow, startColumn, maxMove);
+        
+
+        
+
+        return (int) dp[startRow+1][startColumn + 1][maxMove];
     }
 }
