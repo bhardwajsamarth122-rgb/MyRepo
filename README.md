@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-knight-dialer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0935-knight-dialer/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0063-unique-paths-ii/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## String
