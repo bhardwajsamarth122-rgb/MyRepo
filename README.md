@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0629-k-inverse-pairs-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
