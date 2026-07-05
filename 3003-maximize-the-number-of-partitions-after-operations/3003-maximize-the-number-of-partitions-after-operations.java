@@ -3,7 +3,7 @@ class Solution {
     String s;
     Map<String, Integer> map;
     public int solve(int i, int mask, boolean canChange, int k){
-        if(i >= n)  return 0;
+        if(i >= n)  return 1;
         String key = "" + i + ","  + mask + "," + canChange;
         if(map.containsKey(key)){
             return map.get(key);
@@ -38,6 +38,6 @@ class Solution {
         s = "" + str;
         n = s.length();
         map = new HashMap<>();
-        return 1 + solve(0, 0, true, k);
+        return solve(0, 0, true, k);
     }
 }
