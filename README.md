@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0629-k-inverse-pairs-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0629-k-inverse-pairs-array/) | Hard |
+| [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1288-remove-covered-intervals/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
