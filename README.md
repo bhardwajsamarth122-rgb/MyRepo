@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
