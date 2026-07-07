@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0063-unique-paths-ii/) | Medium |
+| [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
