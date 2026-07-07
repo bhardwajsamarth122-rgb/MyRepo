@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
@@ -213,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 <!---LeetCode Topics End-->
