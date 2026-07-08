@@ -1,29 +1,22 @@
 class Solution {
-    int n;
-    Integer[][] dp;
-    public int solve(int i, char prev, int k, String s){
-        if(i >= n)
-            return 0;
-
-        int idx = (prev == '#') ? 26 : prev - 'a';
-        if(dp[i][idx] != null) return dp[i][idx];
-
-        int take = 0;
-        if(prev == '#' || Math.abs(prev - s.charAt(i)) <= k){
-            take = 1 + solve(i+1, s.charAt(i), k, s);
-        }
-        
-        int notTake = solve(i+1, prev, k, s);
-
-       
-        
-
-        return dp[i][idx] = Math.max(take, notTake);
-    }
-
     public int longestIdealString(String s, int k) {
-        n = s.length();
-        dp = new Integer[n+1][27];
-        return solve(0, '#', k, s);
+        int n = s.length();
+        int[] dp = new int[n];
+        for(int i = 0; i < n; i++){
+            dp[i] = 1;
+        }
+        int[] character = new int[26];
+        int ans = Integer.MIN_VALUE;
+        for(int i = 0; i< n; i++){
+            int idx = s.charAt(i) - 'a';
+            for(int j = Math.max(0, idx - k); j <= Math.min(25, idx + k); j++){
+                dp[i] = Math.max(dp[i], character[j] + 1);
+               
+            } 
+            character[idx] = dp[i];
+            ans = Math.max(dp[i], ans);
+        }
+
+        return ans;
     }
 }
