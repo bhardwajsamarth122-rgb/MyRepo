@@ -1,30 +1,29 @@
 class Solution {
-    int n;
-    Integer[][] dp;
-    public int solve(int row, int col, int[][] grid){
-        if(row == n-1){
-            return grid[row][col];
-        }
-
-        if(dp[row][col] != null) return dp[row][col];
-
-
-        int ans = Integer.MAX_VALUE;
-        for(int j = 0; j < n; j++){
-            if(j != col){
-                ans = Math.min(ans, grid[row][col] + solve(row + 1, j, grid));
-            }
-        }
-
-        return dp[row][col] = ans;
-    }
-
     public int minFallingPathSum(int[][] grid) {
-        n = grid.length;
-        dp = new Integer[n+1][n+1];
-        int ans = Integer.MAX_VALUE;
+        int n = grid.length;
+        if(n == 1) return grid[0][0];
+        int[][] dp = new int[n][n];
         for(int i = 0; i < n; i++){
-            ans = Math.min(ans, solve(0, i, grid));
+            Arrays.fill(dp[i], Integer.MAX_VALUE);
+        }
+
+        int ans = Integer.MAX_VALUE;
+
+        for(int i = n-1; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                if(i == n-1){
+                    dp[i][j] = grid[i][j];
+                    continue;
+                }
+                for(int col = 0; col < n; col++){
+                    if(j != col){
+                        dp[i][j] = Math.min(dp[i][j], grid[i][j] + dp[i+1][col]);
+                    }
+                }
+                if(i == 0){
+                    ans = Math.min(ans, dp[i][j]);
+                }
+            }
         }
 
         return ans;
