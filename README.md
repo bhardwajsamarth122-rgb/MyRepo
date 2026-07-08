@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
+| [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
@@ -147,12 +148,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
+| [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
