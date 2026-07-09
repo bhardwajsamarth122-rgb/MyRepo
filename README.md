@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0514-freedom-trail](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0514-freedom-trail/) | Hard |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
+| [0552-student-attendance-record-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0629-k-inverse-pairs-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
