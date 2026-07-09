@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
 | [0935-knight-dialer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0935-knight-dialer/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1105-filling-bookcase-shelves](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1105-filling-bookcase-shelves](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1301-number-of-paths-with-max-score/) | Hard |
