@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
 | [0514-freedom-trail](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0514-freedom-trail/) | Hard |
+| [0551-student-attendance-record-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
