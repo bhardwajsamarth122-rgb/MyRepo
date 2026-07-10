@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,10 +250,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
