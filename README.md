@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1937-maximum-number-of-points-with-cost](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
@@ -269,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 <!---LeetCode Topics End-->
