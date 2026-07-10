@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1937-maximum-number-of-points-with-cost](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
