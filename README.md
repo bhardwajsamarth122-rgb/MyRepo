@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0629-k-inverse-pairs-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0343-integer-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
