@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+| [3366-minimum-array-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3366-minimum-array-sum/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Tree
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3366-minimum-array-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3366-minimum-array-sum/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
