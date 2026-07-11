@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -116,12 +117,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0514-freedom-trail](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0514-freedom-trail/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -253,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
