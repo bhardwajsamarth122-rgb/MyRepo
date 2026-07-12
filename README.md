@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
 | [0808-soup-servings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0808-soup-servings/) | Medium |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0920-number-of-music-playlists/) | Hard |
 | [0935-knight-dialer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0935-knight-dialer/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
