@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 | [3366-minimum-array-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3366-minimum-array-sum/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3366-minimum-array-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3366-minimum-array-sum/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3538-merge-operations-for-minimum-travel-time/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
