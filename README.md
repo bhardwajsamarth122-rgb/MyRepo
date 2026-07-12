@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [0799-champagne-tower](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0799-champagne-tower/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0741-cherry-pickup](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0741-cherry-pickup/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1105-filling-bookcase-shelves/) | Medium |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Segment Tree
