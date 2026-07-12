@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2742-painting-the-walls](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2742-painting-the-walls/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3077-maximum-strength-of-k-disjoint-subarrays/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2901-longest-unequal-adjacent-groups-subsequence-ii/) | Medium |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3003-maximize-the-number-of-partitions-after-operations/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Hash Table
