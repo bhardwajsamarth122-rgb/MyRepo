@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0403-frog-jump](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0403-frog-jump/) | Hard |
 | [0486-predict-the-winner](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0518-coin-change-ii/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
