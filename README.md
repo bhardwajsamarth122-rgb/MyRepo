@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0514-freedom-trail](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0514-freedom-trail/) | Hard |
 | [0551-student-attendance-record-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0139-word-break/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
 ## Monotonic Queue
