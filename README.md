@@ -304,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
