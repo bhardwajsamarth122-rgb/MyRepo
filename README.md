@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3283-maximum-number-of-moves-to-kill-all-pawns/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Game Theory
@@ -328,4 +329,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
