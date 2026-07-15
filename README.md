@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0664-strange-printer](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0664-strange-printer/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1425-constrained-subsequence-sum/) | Hard |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
