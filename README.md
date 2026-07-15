@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1531-string-compression-ii](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1531-string-compression-ii/) | Hard |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1931-painting-a-grid-with-three-different-colors/) | Hard |
 | [1937-maximum-number-of-points-with-cost](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/bhardwajsamarth122-rgb/MyRepo/tree/main/2370-longest-ideal-subsequence/) | Medium |
